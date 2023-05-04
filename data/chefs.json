@@ -1,0 +1,319 @@
+[
+    {
+        "chef_id": "1",
+        "chef_name": "John Doe",
+        "experience": "12",
+        "chef_pic": "https://i.ibb.co/4dn8YJZ/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
+        "likes": "1000",
+        "recipes": [
+            {
+                "recipe_id": "1A",
+                "recipe_name": "Grilled Salmon",
+                "recipe_img": "https://kristineskitchenblog.com/wp-content/uploads/2020/07/grilling-salmon-1200-square-2609.jpg",
+                "ingredients": [
+                    "Salmon",
+                    "Olive oil",
+                    "Lemon",
+                    "Garlic",
+                    "Salt"
+                ],
+                "cooking_method": "Preheat grill to high. Brush salmon with olive oil and season with salt. Grill for 4-5 minutes on each side, or until cooked through. Squeeze lemon juice over the top before serving.",
+                "rating": "4.8"
+            },
+            {
+                "recipe_id": "1B",
+                "recipe_name": "Beef Stroganoff",
+                "recipe_img": "https://i.ibb.co/qNWWScr/opt-aboutcom-coeus-resources-content-migration-serious-eats-seriouseats-com-recipes-images-2014-12-2.jpg",
+                "ingredients": [
+                    "Beef sirloin",
+                    "Sour cream",
+                    "Onion",
+                    "Garlic",
+                    "Paprika"
+                ],
+                "cooking_method": "Heat a large skillet over medium-high heat. Add beef and onion; cook until beef is browned on all sides. Add garlic and paprika; cook for 1-2 minutes. Stir in sour cream and heat through. Serve over egg noodles.",
+                "rating": "4.5"
+            },
+            {
+                "recipe_id": "1C",
+                "recipe_name": "Risotto with Mushrooms",
+                "recipe_img": "https://hips.hearstapps.com/delish/assets/17/35/1504128527-delish-mushroom-risotto.jpg",
+                "ingredients": [
+                    "Arborio rice",
+                    "Mushrooms",
+                    "Chicken broth",
+                    "Parmesan cheese",
+                    "Butter"
+                ],
+                "cooking_method": "Melt butter in a large saucepan over medium heat. Add mushrooms and cook until tender. Add rice and stir to coat with butter. Add chicken broth, one ladleful at a time, stirring constantly until each addition is absorbed. Stir in Parmesan cheese before serving.",
+                "rating": "4.7"
+            }
+        ]
+    },
+    {
+        "chef_id": "2",
+        "chef_name": "Jane Smith",
+        "experience": "8",
+        "chef_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFsXi9MCi_yv1pIEbCVYuxokEQbnLCTUje-Q&usqp=CAU",
+        "likes": "750",
+        "recipes": [
+            {
+                "recipe_id": "2A",
+                "recipe_name": "Pesto Pasta",
+                "recipe_img": "https://recipetineats.com/wp-content/uploads/2019/02/Pesto-Pasta_3.jpg",
+                "ingredients": [
+                    "Pasta",
+                    "Basil",
+                    "Garlic",
+                    "Olive oil",
+                    "Pine nuts"
+                ],
+                "cooking_method": "Cook pasta according to package directions. While pasta is cooking, blend basil, garlic, pine nuts, and olive oil in a food processor until smooth. Toss pasta with pesto sauce before serving.",
+                "rating": "4.6"
+            },
+            {
+                "recipe_id": "2B",
+                "recipe_name": "Tomato Soup",
+                "recipe_img": "https://www.jocooks.com/wp-content/uploads/2020/08/tomato-bisque-1-14.jpg",
+                "ingredients": [
+                    "Tomatoes",
+                    "Onion",
+                    "Garlic",
+                    "Chicken broth",
+                    "Cream"
+                ],
+                "cooking_method": "Saute onion and garlic in a large saucepan until soft. Add tomatoes and chicken broth; simmer for 20-25 minutes. Puree soup in a blender or food processor. Return soup to saucepan and stir in cream. Heat through before serving.",
+                "rating": "4.2"
+            },
+            {
+                "recipe_id": "2C",
+                "recipe_name": "Chicken Stir-Fry",
+                "recipe_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2021/05/Chicken-Stir-Fry-main-1.jpg",
+                "ingredients": [
+                    "Chicken breast",
+                    "Broccoli",
+                    "Carrots",
+                    "Soy sauce",
+                    "Garlic"
+                ],
+                "cooking_method": "Cut chicken breast into bite-sized pieces. Heat oil in a wok or large skillet over high heat. Add chicken and garlic; stir-fry for 2-3 minutes. Add broccoli and carrots; stir-fry for another 2-3 minutes. Stir in soy sauce before serving.",
+                "rating": "4.4"
+            }
+        ]
+    },
+    {
+        "chef_id": "3",
+        "chef_name": "Maria Garcia",
+        "experience": "8",
+        "chef_pic": "https://i.ibb.co/h8mrDnJ/maria-garcia.jpg",
+        "likes": "750",
+        "recipes": [
+            {
+                "recipe_id": "3A",
+                "recipe_name": "Paella",
+                "recipe_img": "https://iamafoodblog.b-cdn.net/wp-content/uploads/2012/07/paella-9174.jpg",
+                "ingredients": [
+                    "Short-grain rice",
+                    "Saffron",
+                    "Chicken",
+                    "Shrimp",
+                    "Mussels",
+                    "Tomatoes",
+                    "Bell peppers",
+                    "Onion",
+                    "Garlic",
+                    "Chicken broth"
+                ],
+                "cooking_method": "Cook chicken, shrimp, onion, garlic, tomatoes, bell peppers and rice together in chicken broth with saffron until tender. Add mussels, cook until heated through.",
+                "rating": "4.9"
+            },
+            {
+                "recipe_id": "3B",
+                "recipe_name": "Tortilla Española",
+                "recipe_img": "https://assets.epicurious.com/photos/579fac7520ada1484ddf303d/master/w_1000,h_667,c_limit/tortilla-espanola.jpg",
+                "ingredients": [
+                    "Potatoes",
+                    "Onion",
+                    "Eggs",
+                    "Olive oil"
+                ],
+                "cooking_method": "Cook sliced potatoes and onion in olive oil. Mix with beaten eggs and cook until set. Invert and cook other side until cooked through.",
+                "rating": "4.6"
+            },
+            {
+                "recipe_id": "3C",
+                "recipe_name": "Gazpacho",
+                "recipe_img": "https://i.ibb.co/7RBSmz0/delish-190606-gazpacho-269-landscape-pf-1560544275.jpg",
+                "ingredients": [
+                    "Tomatoes",
+                    "Cucumber",
+                    "Bell pepper",
+                    "Onion",
+                    "Garlic",
+                    "Bread",
+                    "Olive oil",
+                    "Red wine vinegar"
+                ],
+                "cooking_method": "Blend together tomatoes, cucumber, bell pepper, onion, garlic, bread, olive oil, and red wine vinegar. Chill and serve garnished with diced cucumber, tomato, and croutons.",
+                "rating": "4.3"
+            }
+        ]
+    },
+    {
+        "chef_id": "4",
+        "chef_name": "Maria Rodriguez",
+        "experience": "8",
+        "chef_pic": "https://hispanicexecutive.com/wp-content/uploads/2021/09/Ana-Maria-Rodriguez-Yum-BrandsPizza-Hut-400x600-2.jpg",
+        "likes": "500",
+        "recipes": [
+            {
+                "recipe_id": "4A",
+                "recipe_name": "Tacos al Pastor",
+                "recipe_img": "https://i.ibb.co/TmbB9JK/al-pastor-3507w.jpg",
+                "ingredients": [
+                    "Pork shoulder",
+                    "Pineapple",
+                    "Onion",
+                    "Garlic",
+                    "Cumin"
+                ],
+                "cooking_method": "Preheat oven to 325°F. In a blender, puree pineapple, onion, garlic, cumin, and salt. Rub the mixture all over the pork shoulder. Roast for 3 hours, or until the pork is tender and falling apart. Serve on tortillas with cilantro and lime.",
+                "rating": "4.9"
+            },
+            {
+                "recipe_id": "4B",
+                "recipe_name": "Arroz con Pollo",
+                "recipe_img": "https://i.ibb.co/k4s9m6D/Arrozcon-Pollo.png",
+                "ingredients": [
+                    "Chicken thighs",
+                    "Rice",
+                    "Tomato",
+                    "Onion",
+                    "Bell pepper"
+                ],
+                "cooking_method": "Brown seasoned chicken in oil, then remove from skillet. Cook onion, tomato, and bell pepper until softened. Add rice, chicken broth, and saffron; bring to a boil. Simmer for 20 minutes. Return chicken to skillet and cook for another 10 minutes until cooked through.",
+                "rating": "4.7"
+            },
+            {
+                "recipe_id": "4C",
+                "recipe_name": "Ceviche",
+                "recipe_img": "https://natashaskitchen.com/wp-content/uploads/2019/05/Ceviche-Recipe-5.jpg",
+                "ingredients": [
+                    "Shrimp",
+                    "Lime",
+                    "Tomato",
+                    "Red onion",
+                    "Cilantro"
+                ],
+                "cooking_method": "In a large bowl, combine shrimp, lime juice, tomato, red onion, and cilantro. Stir well and refrigerate for at least 1 hour, or until the shrimp are opaque and cooked through. Serve with tortilla chips.",
+                "rating": "4.5"
+            }
+        ]
+    },
+    {
+        "chef_id": "5",
+        "chef_name": "Massimo Bottura",
+        "experience": "8",
+        "chef_pic": "https://i.ibb.co/mNGqpLG/download-1.jpg",
+        "likes": "750",
+        "recipes": [
+            {
+                "recipe_id": "5A",
+                "recipe_name": "Spaghetti Carbonara",
+                "recipe_img": "https://www.allrecipes.com/thmb/Vg2cRidr2zcYhWGvPD8M18xM_WY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/11973-spaghetti-carbonara-ii-DDMFS-4x3-6edea51e421e4457ac0c3269f3be5157.jpg",
+                "ingredients": [
+                    "Spaghetti",
+                    "Bacon",
+                    "Eggs",
+                    "Parmesan cheese",
+                    "Black pepper"
+                ],
+                "cooking_method": "Cook spaghetti according to package directions. While pasta is cooking, cook bacon in a large skillet until crisp. In a small bowl, whisk together eggs, Parmesan cheese, and black pepper. Drain pasta and reserve 1 cup of cooking water. Add pasta and reserved cooking water to skillet with bacon. Remove from heat and add egg mixture, stirring constantly to coat pasta. Serve immediately.",
+                "rating": "4.6"
+            },
+            {
+                "recipe_id": "5B",
+                "recipe_name": "Chicken Fajitas",
+                "recipe_img": "https://www.thespruceeats.com/thmb/EP_diHSWDqSGSO8PZx1d0d1y1Y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/easy-fajitas-recipe-3052908-step-08-a10e430572dc4cb69298ce2c397c344d.jpg",
+                "ingredients": [
+                    "Chicken",
+                    "Bell peppers",
+                    "Onion",
+                    "Taco seasoning",
+                    "Tortillas"
+                ],
+                "cooking_method": "Heat a large skillet over medium-high heat. Add chicken, bell peppers, onion, and taco seasoning. Cook until chicken is browned and vegetables are tender. Serve in warm tortillas.",
+                "rating": "4.4"
+            },
+            {
+                "recipe_id": "5C",
+                "recipe_name": "Mediterranean Salad",
+                "recipe_img": "https://simple-veganista.com/wp-content/uploads/2020/09/mediterranean-salad-recipe.jpg",
+                "ingredients": [
+                    "Lettuce",
+                    "Tomatoes",
+                    "Cucumber",
+                    "Feta cheese",
+                    "Olives",
+                    "Red onion"
+                ],
+                "cooking_method": "Toss lettuce, tomatoes, cucumber, feta cheese, olives, and red onion together in a large bowl. Drizzle with olive oil and lemon juice before serving.",
+                "rating": "4.2"
+            }
+        ]
+    },
+    {
+        "chef_id": "6",
+        "chef_name": "Olivia Martinez",
+        "experience": "8",
+        "chef_pic": "https://images.squarespace-cdn.com/content/v1/5f063187ead18a2e98ba7f9b/9052c63c-ae47-4201-acc9-f843c35e411e/FourSeasonsHotel-18.jpg?format=1500w",
+        "likes": "950",
+        "recipes": [
+            {
+                "recipe_id": "6A",
+                "recipe_name": "Taco Salad",
+                "recipe_img": "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_1500,ar_3:2/k%2Farchive%2F1569a5fb210c5da5c7d1d8d03e4446fb430442c1",
+                "ingredients": [
+                    "Ground beef",
+                    "Taco seasoning",
+                    "Tomatoes",
+                    "Lettuce",
+                    "Tortilla chips"
+                ],
+                "cooking_method": "Brown the beef in a skillet over medium-high heat. Drain any excess grease. Add taco seasoning and stir until combined. In a large bowl, mix together the lettuce, tomatoes, and beef. Crush the tortilla chips and sprinkle over the top. Serve with your favorite dressing.",
+                "rating": "4.4"
+            },
+            {
+                "recipe_id": "6B",
+                "recipe_name": "Chicken Parmesan",
+                "recipe_img": "https://www.southernliving.com/thmb/rQaGDkAPGa_MeU4eglrAaeuexjg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/southern-living-chicken-parmesan-ddmfs-0047-fe218cb392784e79bfb4bb586685d6f9.jpg",
+                "ingredients": [
+                    "Chicken breasts",
+                    "Flour",
+                    "Egg",
+                    "Breadcrumbs",
+                    "Marinara sauce",
+                    "Mozzarella cheese",
+                    "Parmesan cheese"
+                ],
+                "cooking_method": "Preheat oven to 400°F. Season chicken breasts with salt and pepper. Dredge chicken in flour, shaking off excess. Dip in egg, then coat in breadcrumbs. In a large skillet, heat olive oil over medium-high heat. Add chicken and cook until golden brown, about 3-4 minutes on each side. Transfer chicken to a baking dish. Top with marinara sauce, mozzarella, and Parmesan. Bake for 20-25 minutes, or until cheese is melted and bubbly.",
+                "rating": "4.7"
+            },
+            {
+                "recipe_id": "6C",
+                "recipe_name": "Shrimp Scampi",
+                "recipe_img": "https://static01.nyt.com/images/2022/06/02/dining/ShrimpScampi_thumb/ShrimpScampi_thumb-threeByTwoMediumAt2X.jpg",
+                "ingredients": [
+                    "Linguine",
+                    "Shrimp",
+                    "Garlic",
+                    "Butter",
+                    "Lemon juice",
+                    "White wine"
+                ],
+                "cooking_method": "Cook the linguine according to the package instructions. Drain and set aside. In a large skillet, melt butter over medium heat. Add garlic and cook for 1-2 minutes. Add shrimp and cook until pink, about 2-3 minutes per side. Add lemon juice and white wine and cook for an additional 1-2 minutes. Serve over linguine.",
+                "rating": "4.5"
+            }
+        ]
+    }
+]
