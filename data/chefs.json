@@ -3,8 +3,10 @@
         "chef_id": "1",
         "chef_name": "John Doe",
         "experience": "12",
+        "recipes_num": "12",
         "chef_pic": "https://i.ibb.co/4dn8YJZ/pexels-miquel-ferran-gomez-figueroa-3814446.jpg",
         "likes": "1000",
+        "description": "John Doe is an experienced chef with over 12 years in the culinary industry. He is known for his expertise in grilling and creating savory dishes that leave a lasting impression on the taste buds. With a passion for using fresh, locally sourced ingredients, John takes great pride in creating dishes that not only taste amazing but also nourish the body.",
         "recipes": [
             {
                 "recipe_id": "1A",
@@ -54,8 +56,10 @@
         "chef_id": "2",
         "chef_name": "Jane Smith",
         "experience": "8",
+        "recipes_num": "10",
         "chef_pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFsXi9MCi_yv1pIEbCVYuxokEQbnLCTUje-Q&usqp=CAU",
         "likes": "750",
+        "description": "Jane Smith is a passionate chef with 8 years of experience in the culinary world. She has a talent for creating delicious and healthy dishes that are both satisfying and nutritious. Jane specializes in preparing simple yet flavorful recipes that can be easily replicated at home. Her dedication and creativity have earned her a loyal following of food enthusiasts who admire her expertise in the kitchen.",
         "recipes": [
             {
                 "recipe_id": "2A",
@@ -105,8 +109,10 @@
         "chef_id": "3",
         "chef_name": "Maria Garcia",
         "experience": "8",
+        "recipes_num": "15",
         "chef_pic": "https://i.ibb.co/h8mrDnJ/maria-garcia.jpg",
         "likes": "750",
+        "description": "Maria Garcia is a renowned chef specializing in Spanish cuisine. With eight years of experience in the culinary industry, Maria has developed a passion for creating flavorful and authentic dishes that showcase the richness and diversity of Spanish cuisine. She is highly skilled in using a variety of fresh ingredients, herbs, and spices to create unique and delicious recipes. Her expertise in cooking traditional Spanish dishes such as paella, tortilla española, and gazpacho has won her widespread recognition and appreciation from food enthusiasts around the world.",
         "recipes": [
             {
                 "recipe_id": "3A",
@@ -163,8 +169,10 @@
         "chef_id": "4",
         "chef_name": "Maria Rodriguez",
         "experience": "8",
+        "recipes_num": "8",
         "chef_pic": "https://hispanicexecutive.com/wp-content/uploads/2021/09/Ana-Maria-Rodriguez-Yum-BrandsPizza-Hut-400x600-2.jpg",
         "likes": "500",
+        "description": "Maria Garcia is an experienced chef specializing in Spanish cuisine. Her passion for creating flavorful and authentic dishes has won her widespread recognition and appreciation from food enthusiasts around the world. Maria's expertise in cooking traditional Spanish dishes such as paella, tortilla española, and gazpacho is highly regarded.",
         "recipes": [
             {
                 "recipe_id": "4A",
@@ -214,8 +222,10 @@
         "chef_id": "5",
         "chef_name": "Massimo Bottura",
         "experience": "8",
+        "recipes_num": "10",
         "chef_pic": "https://i.ibb.co/mNGqpLG/download-1.jpg",
         "likes": "750",
+        "description": "Massimo Bottura is an Italian chef and restaurateur who is the owner and chef patron of Osteria Francescana, a three-Michelin-star restaurant in Modena, Italy. He is known for his innovative and contemporary style of Italian cuisine, and he has been recognized as one of the world's best chefs.",
         "recipes": [
             {
                 "recipe_id": "5A",
@@ -266,8 +276,10 @@
         "chef_id": "6",
         "chef_name": "Olivia Martinez",
         "experience": "8",
+        "recipes_num": "12",
         "chef_pic": "https://images.squarespace-cdn.com/content/v1/5f063187ead18a2e98ba7f9b/9052c63c-ae47-4201-acc9-f843c35e411e/FourSeasonsHotel-18.jpg?format=1500w",
         "likes": "950",
+        "description": "Olivia Martinez is an experienced chef with 8 years of culinary expertise. She is known for her delicious and creative recipes, as well as her ability to create visually stunning dishes. With over 950 likes on her profile, she is a popular and respected figure in the culinary community. Her specialties include Mexican cuisine and Italian-American dishes. In her free time, she enjoys experimenting with new ingredients and techniques in the kitchen.",
         "recipes": [
             {
                 "recipe_id": "6A",
